@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BitkoinViewer</string>
+    <integer name="count_per_page">123</integer>
+</resources>
